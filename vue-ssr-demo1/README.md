@@ -42,3 +42,8 @@ renderer.renderToString(app).then(html => {
 ```shell
 npm install express -S
 ```
+
+## 6. 启动express服务
+```shell
+node server.js
+```
